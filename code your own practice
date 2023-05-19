@@ -1,0 +1,11 @@
+Step 1: Serialization
+- figure out how to make a code where all people can collaborate
+
+Step 2: Planning
+- figure out story/base - PETER PAN
+- creating a story for the user
+- interactive where they input their choices
+- choices only go one direction, if they choose otherwise, choice goes back to main path
+- include loops, global and local, lists, dictionaries, tuples, API
+
+Step 3: Start Coding 
